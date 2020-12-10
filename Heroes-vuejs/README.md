@@ -16,9 +16,7 @@ O site é composto por 4 diferentes páginas:
 
 
 
- <h1 align = center>
-    <img src="public/imagem.png">
-</h1>
+
 
   ## 💻 Tecnologias utilizadas
   - Vue js
