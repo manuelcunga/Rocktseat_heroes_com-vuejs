@@ -23,17 +23,26 @@ O site é composto por 4 diferentes páginas:
 
 obs.: Para o funcionamento Do projecto deves configurar seguindo os seguintes pasos: 
 #Project setup
+
+
 --yarn install
 
 #Compiles and hot-reloads for development
+
+
 --yarn serve
 
 #Compiles and minifies for production
+
+
 ---yarn build
 
 #Lints and fixes files
+
+
 --yarn lint
 
+para mais info: visite o site do vue js  **[RocketSeat](https://br.vuejs.org/v2/guide/)**
 <p align= center>
 🐱‍👤 Desenvolvido por <strong>Lázaro Inácio Manuel</strong>   -----   Me adicione no <a href="https://www.linkedin.com/in/l%C3%A1zaro-in%C3%A1cio-manuel-9264971b3/"target="_blank">Linkedin</a>
 </p>
