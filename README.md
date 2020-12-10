@@ -15,7 +15,9 @@ O site é composto por 4 diferentes páginas:
   - **Página para cadastrar novos casos:** Está é a pagina para registro de novos casos
 
 
-
+<h1 align = center>
+    <img src="public/imagem.png">
+</h1>
 
 
   ## 💻 Tecnologias utilizadas
