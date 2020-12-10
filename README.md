@@ -3,7 +3,7 @@
 Este site foi baseada no Be The Hero um site feito em um treinamento da Rocktseat, O Diego fez com React js, e eu fiz com Vue js **[RocketSeat](https://rocketseat.com.br/)**
 
  <h1 align = center>
-    <img src="public/rocktseat.PNG">
+    <img src="Heroes-vuejs/public/imagem.png">
 </h1>
 
 ## 📚 Páginas
